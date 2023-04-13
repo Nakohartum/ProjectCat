@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e26fa97-a62e-4bdf-8326-1cc27774465d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/_Root/Scripts/Movement.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectCat/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectCat/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectCat/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectCat/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectCat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectCat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Root/Images/enemy dog.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Root/Images/enemy dog.png.meta" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +51,8 @@
         <option value="$PROJECT_DIR$/Assets/_Root/Scripts/Catch/ReleaseEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/_Root/Scripts/Catch/Release.cs" />
         <option value="$PROJECT_DIR$/Assets/_Root/Scripts/Catch/ReleaseAndCatchController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Root/Scripts/Dog/DogView.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Root/Scripts/Dog/DogController.cs" />
       </list>
     </option>
   </component>
@@ -75,10 +80,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="16948">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="6028">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="16948" />
+      <option name="pid" value="6028" />
       <option name="selectedOptions">
         <set />
       </option>
@@ -94,6 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681293599038</updated>
       <workItem from="1681293641518" duration="8769000" />
+      <workItem from="1681406254851" duration="3377000" />
     </task>
     <servers />
   </component>
@@ -112,6 +118,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -121,38 +128,38 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="486" height="464" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1681300087436" />
-    <state width="1490" height="304" key="GridCell.Tab.0.bottom" timestamp="1681302573448">
+    <state width="1490" height="304" key="GridCell.Tab.0.bottom" timestamp="1681409364219">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1490" height="304" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1681302573448" />
-    <state width="1490" height="304" key="GridCell.Tab.0.center" timestamp="1681302573448">
+    <state width="1490" height="304" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1681409364219" />
+    <state width="1490" height="304" key="GridCell.Tab.0.center" timestamp="1681409364219">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1490" height="304" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1681302573448" />
-    <state width="1490" height="304" key="GridCell.Tab.0.left" timestamp="1681302573448">
+    <state width="1490" height="304" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1681409364219" />
+    <state width="1490" height="304" key="GridCell.Tab.0.left" timestamp="1681409364219">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1490" height="304" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1681302573448" />
-    <state width="1490" height="304" key="GridCell.Tab.0.right" timestamp="1681302573448">
+    <state width="1490" height="304" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1681409364219" />
+    <state width="1490" height="304" key="GridCell.Tab.0.right" timestamp="1681409364219">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1490" height="304" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1681302573448" />
-    <state width="1490" height="304" key="GridCell.Tab.1.bottom" timestamp="1681302573449">
+    <state width="1490" height="304" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1681409364219" />
+    <state width="1490" height="304" key="GridCell.Tab.1.bottom" timestamp="1681409649078">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1490" height="304" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1681302573449" />
-    <state width="1490" height="304" key="GridCell.Tab.1.center" timestamp="1681302573448">
+    <state width="1490" height="304" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1681409649078" />
+    <state width="1490" height="304" key="GridCell.Tab.1.center" timestamp="1681409649078">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1490" height="304" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1681302573448" />
-    <state width="1490" height="304" key="GridCell.Tab.1.left" timestamp="1681302573448">
+    <state width="1490" height="304" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1681409649078" />
+    <state width="1490" height="304" key="GridCell.Tab.1.left" timestamp="1681409649077">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1490" height="304" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1681302573448" />
-    <state width="1490" height="304" key="GridCell.Tab.1.right" timestamp="1681302573448">
+    <state width="1490" height="304" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1681409649077" />
+    <state width="1490" height="304" key="GridCell.Tab.1.right" timestamp="1681409649078">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1490" height="304" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1681302573448" />
+    <state width="1490" height="304" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1681409649078" />
     <state width="1490" height="304" key="GridCell.Tab.2.bottom" timestamp="1681302573449">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -189,5 +196,24 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="430" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1681298524430" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/_Root/Scripts/Dog/DogController.cs</url>
+          <line>36</line>
+          <properties documentPath="D:\UnityGames\ProjectCat\ProjectCat\Assets\_Root\Scripts\Dog\DogController.cs" initialLine="36">
+            <startOffsets>
+              <option value="1053" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1120" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

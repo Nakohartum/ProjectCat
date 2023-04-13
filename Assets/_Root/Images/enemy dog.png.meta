@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -151,7 +151,448 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: enemy dog_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 349
+        width: 204
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce4ad622a056124d97a076467bb55ff
+      internalID: 84112208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy dog_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 355
+        width: 225
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c541b1f86b5476f41979fce238eb6681
+      internalID: -148448028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy dog_2
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 378
+        width: 243
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c55e789d63be9a43b69909cf51f1410
+      internalID: -76208043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy dog_3
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 366
+        width: 220
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd638cd3357b7942a8444a33b2931e2
+      internalID: 573401292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy dog_4
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 366
+        width: 220
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e01ceffc4667e4fbeaae90aa41cbd8
+      internalID: 1110790699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy dog_5
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 367
+        width: 203
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfed03f2eae499d459fc32da8b7d9e3f
+      internalID: -1378594288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy dog_6
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 367
+        width: 198
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d17ef6c0b024a841b1b281568dbd8c0
+      internalID: -612770051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy dog_7
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 378
+        width: 204
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffad59e46a47944ab1aba3d40e0b8f6
+      internalID: 1589455990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy dog_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 208
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8416c3fa05aaf32409cbcc603ef08eff
+      internalID: -1905399413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy dog_9
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 178
+        width: 203
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4078d92bd4c6b744bba0f5c08b96a453
+      internalID: -1322439362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy dog_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 175
+        width: 197
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee68d2c4c10293d4696a0532154cf79e
+      internalID: -424143019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy dog_11
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 175
+        width: 214
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e23729ec0e5ce4e8b37d0a70f0acee
+      internalID: -1240323121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy dog_12
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 175
+        width: 215
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5978d02182db941a6fc1802bef2e8c
+      internalID: -379659700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy dog_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 17
+        width: 209
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82feb202fa18f944bbe79890afdde95
+      internalID: -1475565036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy dog_14
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 11
+        width: 203
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54d78b9a8d13d24692b7de15827eaf5
+      internalID: -1011986446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy dog_15
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 6
+        width: 203
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa57eb8078395548b03d9839bfe570c
+      internalID: -1340859298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy dog_16
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 0
+        width: 198
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810633e01448ad24a982f62d86918390
+      internalID: 239655131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy dog_17
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 5
+        width: 198
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5209023bb8d67d49a400ac231ac88c2
+      internalID: 1703784452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy dog_18
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 10
+        width: 181
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706a221a9a8de7244850fd721db17257
+      internalID: 111137319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy dog_19
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 16
+        width: 180
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51a0f9767549414798057aea9e4510d
+      internalID: -682003423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy dog_20
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 22
+        width: 192
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dec4cad0b48ae44193c76e504efd79e
+      internalID: -1604310491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -162,7 +603,28 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      enemy dog_18: 111137319
+      enemy dog_13: -1475565036
+      enemy dog_3: 573401292
+      enemy dog_8: -1905399413
+      enemy dog_14: -1011986446
+      enemy dog_2: -76208043
+      enemy dog_16: 239655131
+      enemy dog_15: -1340859298
+      enemy dog_6: -612770051
+      enemy dog_0: 84112208
+      enemy dog_5: -1378594288
+      enemy dog_9: -1322439362
+      enemy dog_12: -379659700
+      enemy dog_17: 1703784452
+      enemy dog_4: 1110790699
+      enemy dog_11: -1240323121
+      enemy dog_20: -1604310491
+      enemy dog_19: -682003423
+      enemy dog_1: -148448028
+      enemy dog_10: -424143019
+      enemy dog_7: 1589455990
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

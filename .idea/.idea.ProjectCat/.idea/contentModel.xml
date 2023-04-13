@@ -20,6 +20,10 @@
               <e p="ReleaseAndCatchController.cs" t="Include" />
               <e p="ReleaseEvent.cs" t="Include" />
             </e>
+            <e p="Dog" t="Include">
+              <e p="DogController.cs" t="Include" />
+              <e p="DogView.cs" t="Include" />
+            </e>
             <e p="Movement" t="Include">
               <e p="JumpChecker.cs" t="Include" />
               <e p="MovementByVelocity.cs" t="Include" />
